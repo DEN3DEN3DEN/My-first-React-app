@@ -1,0 +1,6 @@
+.Header {
+    display: flex;
+    margin: 30px;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
